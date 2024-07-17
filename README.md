@@ -3,6 +3,7 @@
 Este proyecto es una aplicación web que permite encriptar y desencriptar mensajes de texto siguiendo un esquema específico. Además, incluye la funcionalidad de copiar el texto procesado al portapapeles. La aplicación es completamente responsive, adaptándose a diferentes tamaños de pantalla.
 
 Este proyecto fue desarrollado como parte del curso de Introducción a la Programación de Alura para el programa Oracle One.
+`![inicio](imagenes/inicio.png)`
 
 ## Funcionalidades
 
@@ -48,4 +49,6 @@ Este proyecto fue desarrollado como parte del curso de Introducción a la Progra
    git clone https://github.com/veronicaisabelpereira/encriptador_de_texto.git.
 2. Navega hasta el directorio del proyecto
 3. Ejecuta el proyecto en un servidor local utilizando live-server.
-4. Abre el navegador y accede a http://127.0.0.1:8080 (o la URL que live-server proporcione).   
+4. Abre el navegador y accede a http://127.0.0.1:8080 (o la URL que live-server proporcione).
+   
+   
