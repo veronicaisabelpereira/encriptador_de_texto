@@ -51,4 +51,16 @@ Este proyecto fue desarrollado como parte del curso de Introducción a la Progra
 
 1. Clona el repositorio desde GitHub:
    ```bash
-   git clone https://github.com/veronicaisabelpereira/encriptador_de_texto.git
+   git clone https://github.com/veronicaisabelpereira/encriptador_de_texto.git.
+2. Navega hasta el directorio del proyecto: ```bash cd encriptador_de_texto
+3. Instala live-server globalmente si aún no lo tienes: ```bash npm install -g live-server
+4. Ejecuta el proyecto en un servidor local utilizando live-server: ``bash live-server
+5. Abre el navegador y accede a http://127.0.0.1:8080 (o la URL que live-server proporcione).
+   
+
+## Contacto
+
+Para más información o preguntas, puedes contactarme a través de los siguientes enlaces:
+
+- [LinkedIn](https://www.linkedin.com/in/veronica-isabel-pereira/)
+- **Correo Electrónico:** veronicaisabelpereira80@gmail.com
