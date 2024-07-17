@@ -47,5 +47,5 @@ Este proyecto fue desarrollado como parte del curso de Introducción a la Progra
    ```bash
    git clone https://github.com/veronicaisabelpereira/encriptador_de_texto.git.
 2. Navega hasta el directorio del proyecto
-3. Ejecuta el proyecto en un servidor local utilizando live-server
-   
+3. Ejecuta el proyecto en un servidor local utilizando live-server.
+4. Abre el navegador y accede a http://127.0.0.1:8080 (o la URL que live-server proporcione).   
